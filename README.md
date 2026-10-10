@@ -1,19 +1,16 @@
 # SparkLamp Software
 
-Independent software for Windows.
+Independent Windows software for everyday work.
 
-We’re developing focused tools for everyday work, starting with two projects:
+We’re developing Scribpop, a Windows app for finding useful information across documents. Mark what matters; notes and follow-ups are optional.
 
-| Project | Purpose | Learn more |
-| --- | --- | --- |
-| **Scribpop** | Mark useful passages and find saved information across documents. Notes and follow-ups are optional. | [Explore Scribpop](https://scribpop.com/) · [Request a demo](https://scribpop.com/#request-demo) |
-| **EffortShift** | A Windows companion for connection checks, crash recovery and included Codex usage visibility. Built independently for Codex. | [About EffortShift](https://sparklampsoftware.com/#effortshift) |
+[Explore Scribpop](https://scribpop.com/) · [Request a demo](https://scribpop.com/#request-demo)
 
-Both projects are in development. Public downloads and release dates are not available yet.
+Scribpop is in development. Public downloads and release dates are not available yet.
 
 ### The studio
 
-SparkLamp Software gives each product a clear job and pays attention to the details of everyday use.
+SparkLamp Software gives its work a clear purpose and pays attention to the details of everyday use.
 
 [Visit SparkLamp Software](https://sparklampsoftware.com/) · [Contact the studio](https://sparklampsoftware.com/#contact)
 
